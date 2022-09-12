@@ -4,4 +4,4 @@
 
 Ceci est un projet GIT d'exemple.
 
-Nous effectuons des tests de commandes.
+Nous effectuons des tests de commandes
