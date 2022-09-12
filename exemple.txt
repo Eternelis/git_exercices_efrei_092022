@@ -4,7 +4,7 @@ Second message, test de modification.
 
 Troisième message.
 
-Quatrième message, cette ligne a été modifiée.
+Quatrième message, test de push.
 
 Cinquième message, test de branch.
 
