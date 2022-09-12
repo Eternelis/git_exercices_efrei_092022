@@ -4,8 +4,10 @@ Second message, test de modification.
 
 Troisième message.
 
-Quatrième message, test de push.
+Quatrième message, test de conflits.
 
 Cinquième message, test de branch.
 
 Sixième message, second test de branche.
+
+Autre phrase.
