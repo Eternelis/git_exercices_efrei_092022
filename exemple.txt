@@ -9,3 +9,7 @@ Quatrième message, test de push.
 Cinquième message, test de branch.
 
 Sixième message, second test de branche.
+
+Autre phrase.
+
+Seconde autre phrase.
