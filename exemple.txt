@@ -13,3 +13,5 @@ Sixième message, second test de branche.
 Autre phrase.
 
 Seconde autre phrase.
+
+Test de fusion de branches.
