@@ -14,8 +14,4 @@ Autre phrase.
 
 Seconde autre phrase.
 
-<<<<<<< HEAD
-Test de fusion de branches sur la branche feature.
-=======
 Test de fusion de branches.
->>>>>>> main
