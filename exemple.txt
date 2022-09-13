@@ -14,4 +14,4 @@ Autre phrase.
 
 Seconde autre phrase.
 
-Test de fusion de branches.
+Test de modification de phrase clonée
